@@ -14,9 +14,13 @@ This project demonstrates how **Artificial Intelligence** can empower educators 
 ✅ **Interactive REST API** — Provides endpoints for student analytics  
 ✅ **Deployable on Render / Railway / Fly.io**
 
+
+## 🧩 Project Structure
+
 ---<img width="1626" height="940" alt="student_learning_path_inner" src="https://github.com/user-attachments/assets/07b1b6ee-aaaa-41b8-98ee-8941c67b7149" />
 
 
-## 🧩 Project Structure
+
+
 
 
